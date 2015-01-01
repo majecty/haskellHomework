@@ -1,0 +1,4 @@
+.cabal-sandbox/
+*.hi
+dist/
+*.o
